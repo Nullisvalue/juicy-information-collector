@@ -1,4 +1,4 @@
-# juicy-information-collector
+# juicy-information-collector (Very old script 2019)
 
 * Simple Python malware to collect victim info and send it via http post requests.
 
