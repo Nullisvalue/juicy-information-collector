@@ -1,7 +1,7 @@
 # juicy-information-collector ( old script 2019)
 Simple Python malware to collect victim info and send it via http post requests.
 
-
+This script was developed for a CTF challenge
 
 **Introduction** 
 
